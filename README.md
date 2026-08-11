@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChewyChu
-- 👀 I’m interested in playing computer games
+- 👀 NNU->NUAA
 - 🌱 I’m currently learning Electronic and Information Engineering.
 
 <!---
